@@ -39,12 +39,6 @@ Then, you compile your program like you would do usually, and finally, you prelo
 
 
 
-## usage
-1. Write markdown text in this textarea.
-2. Click 'HTML Preview' button.
-
-
-
 ## changelog
 * 01/05/19 : added files
 
