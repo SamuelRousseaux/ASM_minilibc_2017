@@ -2,7 +2,7 @@
 
 
 ## Project
-Epitech 3rd year project.
+Epitech 2nd year project.
 
 This project consists of creating a dynamic ELF library to replace (to a certain extent) the standard.
 
